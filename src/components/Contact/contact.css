@@ -1,0 +1,19 @@
+.contact {
+    color: #fff;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contact strong {
+    font-size: 33px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.input_fields {
+    width: 100%;
+}
